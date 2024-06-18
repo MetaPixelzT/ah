@@ -1674,7 +1674,7 @@
         {
          "columns":8,
          "firstgid":13,
-         "image":"..\/aa\/tilesets\/all1.png",
+         "image":"tilesets\/all1.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1687,7 +1687,7 @@
         {
          "columns":12,
          "firstgid":1077,
-         "image":"..\/aa\/tilesets\/tree15.png",
+         "image":"tilesets\/tree15.png",
          "imageheight":288,
          "imagewidth":400,
          "margin":0,
@@ -1700,7 +1700,7 @@
         {
          "columns":64,
          "firstgid":1185,
-         "image":"..\/aa\/tilesets\/Water.png",
+         "image":"tilesets\/Water.png",
          "imageheight":1536,
          "imagewidth":2048,
          "margin":0,
@@ -1713,7 +1713,7 @@
         {
          "columns":10,
          "firstgid":4257,
-         "image":"..\/aa\/tilesets\/Wall4.png",
+         "image":"tilesets\/Wall4.png",
          "imageheight":288,
          "imagewidth":320,
          "margin":0,
@@ -1726,7 +1726,7 @@
         {
          "columns":8,
          "firstgid":4347,
-         "image":"..\/aa\/tilesets\/Exterior5.png",
+         "image":"tilesets\/Exterior5.png",
          "imageheight":6000,
          "imagewidth":256,
          "margin":0,
@@ -1739,7 +1739,7 @@
         {
          "columns":8,
          "firstgid":5843,
-         "image":"..\/aa\/tilesets\/Exterior6.png",
+         "image":"tilesets\/Exterior6.png",
          "imageheight":7000,
          "imagewidth":256,
          "margin":0,
@@ -1752,7 +1752,7 @@
         {
          "columns":8,
          "firstgid":7587,
-         "image":"..\/aa\/tilesets\/Exterior10.png",
+         "image":"tilesets\/Exterior10.png",
          "imageheight":6536,
          "imagewidth":256,
          "margin":0,
@@ -1765,7 +1765,7 @@
         {
          "columns":16,
          "firstgid":9219,
-         "image":"..\/aa\/tilesets\/village6.png",
+         "image":"tilesets\/village6.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1778,7 +1778,7 @@
         {
          "columns":8,
          "firstgid":9475,
-         "image":"..\/aa\/tilesets\/village3.png",
+         "image":"tilesets\/village3.png",
          "imageheight":928,
          "imagewidth":256,
          "margin":0,
@@ -1791,7 +1791,7 @@
         {
          "columns":8,
          "firstgid":9707,
-         "image":"..\/aa\/tilesets\/village4.png",
+         "image":"tilesets\/village4.png",
          "imageheight":2720,
          "imagewidth":256,
          "margin":0,
@@ -1804,7 +1804,7 @@
         {
          "columns":10,
          "firstgid":10387,
-         "image":"..\/aa\/tilesets\/sign1.png",
+         "image":"tilesets\/sign1.png",
          "imageheight":96,
          "imagewidth":320,
          "margin":0,
@@ -1817,7 +1817,7 @@
         {
          "columns":8,
          "firstgid":10417,
-         "image":"..\/aa\/tilesets\/Decoration2.png",
+         "image":"tilesets\/Decoration2.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1879,7 +1879,7 @@
         {
          "columns":4,
          "firstgid":10481,
-         "image":"..\/aa\/tilesets\/color17.png",
+         "image":"tilesets\/color17.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -1892,7 +1892,7 @@
         {
          "columns":16,
          "firstgid":10493,
-         "image":"..\/aa\/tilesets\/city2.png",
+         "image":"tilesets\/city2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1905,7 +1905,7 @@
         {
          "columns":16,
          "firstgid":10749,
-         "image":"..\/aa\/tilesets\/tree19.png",
+         "image":"tilesets\/tree19.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
