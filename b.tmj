@@ -194,14 +194,9 @@
                  "name":"bellVariable",
                  "type":"string",
                  "value":"bell1"
-                }, 
-                {
-                 "name":"zone",
-                 "type":"string",
-                 "value":"doorstep1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -1713,6 +1708,45 @@
                  "width":0,
                  "x":780.666666666667,
                  "y":252.666666666667
+                }, 
+                {
+                 "height":0,
+                 "id":37,
+                 "name":"bell1",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"bell",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"bellSound",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=3e3584b5684c94e8d78141bcd87a931-fc5ef87db5308fb7&tcs=Z87&fileID=p1hbtahddfl7e1omv1la4mma1gs74.mp3"
+                        }, 
+                        {
+                         "name":"soundRadius",
+                         "type":"int",
+                         "value":200
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":799.5,
+                 "y":1380.75
+                }, 
+                {
+                 "height":40,
+                 "id":38,
+                 "name":"popup1",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":66.5,
+                 "x":621.25,
+                 "y":1357.75
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2259,7 +2293,7 @@
          "y":0
         }],
  "nextlayerid":93,
- "nextobjectid":37,
+ "nextobjectid":39,
  "orientation":"orthogonal",
  "properties":[
         {
