@@ -189,6 +189,16 @@
                  "name":"bellPopup",
                  "type":"string",
                  "value":"popup1"
+                }, 
+                {
+                 "name":"bellVariable",
+                 "type":"string",
+                 "value":"bell1"
+                }, 
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"doorstep1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1467,6 +1477,34 @@
                  "width":66.5,
                  "x":633.75,
                  "y":1341.5
+                }, 
+                {
+                 "height":0,
+                 "id":34,
+                 "name":"bell",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"bell",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"bellSound",
+                         "type":"string",
+                         "value":"2.mp3"
+                        }, 
+                        {
+                         "name":"soundRadius",
+                         "type":"int",
+                         "value":200
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":802.5,
+                 "y":1386.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2013,7 +2051,7 @@
          "y":0
         }],
  "nextlayerid":90,
- "nextobjectid":34,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
