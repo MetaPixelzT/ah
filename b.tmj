@@ -201,7 +201,7 @@
                  "value":"doorstep1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -1481,7 +1481,7 @@
                 {
                  "height":0,
                  "id":34,
-                 "name":"bell",
+                 "name":"bell1",
                  "point":true,
                  "properties":[
                         {
