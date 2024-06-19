@@ -923,7 +923,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":320,
+                 "height":56,
                  "id":18,
                  "name":"jitsiConference",
                  "properties":[
@@ -942,38 +942,6 @@
                  "visible":true,
                  "width":219.090909090909,
                  "x":32,
-                 "y":96
-                }, 
-                {
-                 "height":71.612250966399,
-                 "id":19,
-                 "name":"website",
-                 "properties":[
-                        {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"{{{ websiteURL }}}"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":96,
-                 "x":256,
                  "y":96
                 }, 
                 {
@@ -1013,7 +981,7 @@
                 {
                  "height":1589.94090909091,
                  "id":24,
-                 "name":"sound",
+                 "name":"sound1",
                  "properties":[
                         {
                          "name":"audioLoop",
@@ -1063,6 +1031,168 @@
                  "width":176.110303030303,
                  "x":691.278181818182,
                  "y":1296.18151515152
+                }, 
+                {
+                 "height":183.516,
+                 "id":26,
+                 "name":"sound4",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"9.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":176.11,
+                 "x":21.9449999999999,
+                 "y":310.242
+                }, 
+                {
+                 "height":183.516,
+                 "id":27,
+                 "name":"sound3",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"8.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":176.11,
+                 "x":23.9449999999999,
+                 "y":654.242
+                }, 
+                {
+                 "height":183.516,
+                 "id":28,
+                 "name":"sound2",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"7.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":176.11,
+                 "x":19.9449999999999,
+                 "y":978.242
+                }, 
+                {
+                 "height":183.516,
+                 "id":29,
+                 "name":"sound7",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"6.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":176.11,
+                 "x":1399.945,
+                 "y":304.242
+                }, 
+                {
+                 "height":183.516,
+                 "id":30,
+                 "name":"sound6",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"11.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":176.11,
+                 "x":1397.945,
+                 "y":650.242
+                }, 
+                {
+                 "height":183.516,
+                 "id":31,
+                 "name":"sound5",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"10.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":176.11,
+                 "x":1395.945,
+                 "y":974.242
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1609,7 +1739,7 @@
          "y":0
         }],
  "nextlayerid":86,
- "nextobjectid":26,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {
