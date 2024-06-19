@@ -1658,11 +1658,6 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"openeddoor1"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
                         }],
                  "rotation":0,
                  "type":"variable",
