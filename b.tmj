@@ -4583,28 +4583,6 @@
                  "y":1058
                 }, 
                 {
-                 "height":176.686666666667,
-                 "id":51,
-                 "name":"focusable1",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":165.392,
-                 "x":698.304,
-                 "y":1315.32333333333
-                }, 
-                {
                  "height":164,
                  "id":52,
                  "name":"jitsiConference",
