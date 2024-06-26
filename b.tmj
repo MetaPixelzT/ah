@@ -4651,7 +4651,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"01"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4668,7 +4668,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"15"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4685,7 +4685,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"03"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4702,7 +4702,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"04"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4719,7 +4719,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"06"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4736,7 +4736,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"05"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4753,7 +4753,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"08"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4770,7 +4770,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"07"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4787,7 +4787,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"13"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4804,7 +4804,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"11"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4821,7 +4821,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"09"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4838,7 +4838,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"10"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4855,7 +4855,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"12"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4872,7 +4872,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"14"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4889,7 +4889,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Conference"
+                         "value":"02"
                         }],
                  "rotation":0,
                  "type":"area",
