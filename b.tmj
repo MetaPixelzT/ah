@@ -3939,7 +3939,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":-10
+                         "value":-1
                         }, 
                         {
                          "name":"playAudio",
@@ -3966,7 +3966,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":-10
+                         "value":-1
                         }, 
                         {
                          "name":"playAudio",
@@ -3993,7 +3993,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":1
+                         "value":-1
                         }, 
                         {
                          "name":"playAudio",
@@ -4020,7 +4020,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":1
+                         "value":-1
                         }, 
                         {
                          "name":"playAudio",
@@ -4047,7 +4047,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":1
+                         "value":-1
                         }, 
                         {
                          "name":"playAudio",
@@ -4074,7 +4074,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":1
+                         "value":-1
                         }, 
                         {
                          "name":"playAudio",
@@ -4101,7 +4101,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":1
+                         "value":-1
                         }, 
                         {
                          "name":"playAudio",
@@ -4128,7 +4128,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":1
+                         "value":-1
                         }, 
                         {
                          "name":"playAudio",
