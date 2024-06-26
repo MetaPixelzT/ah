@@ -4646,7 +4646,7 @@
                 {
                  "height":130,
                  "id":52,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference1",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4680,7 +4680,7 @@
                 {
                  "height":164,
                  "id":54,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference3",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4697,7 +4697,7 @@
                 {
                  "height":164,
                  "id":55,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference4",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4714,7 +4714,7 @@
                 {
                  "height":164,
                  "id":56,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference6",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4731,7 +4731,7 @@
                 {
                  "height":164,
                  "id":57,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference5",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4748,7 +4748,7 @@
                 {
                  "height":164,
                  "id":58,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference8",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4765,7 +4765,7 @@
                 {
                  "height":164,
                  "id":59,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference7",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4782,7 +4782,7 @@
                 {
                  "height":164,
                  "id":60,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference13",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4799,7 +4799,7 @@
                 {
                  "height":164,
                  "id":61,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference11",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4816,7 +4816,7 @@
                 {
                  "height":164,
                  "id":62,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference9",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4833,7 +4833,7 @@
                 {
                  "height":164,
                  "id":63,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference10",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4850,7 +4850,7 @@
                 {
                  "height":164,
                  "id":64,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference12",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4867,7 +4867,7 @@
                 {
                  "height":164,
                  "id":65,
-                 "name":"jitsiConference",
+                 "name":"jitsiConference14",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -4880,6 +4880,23 @@
                  "width":156.091,
                  "x":1413.9545,
                  "y":311.333333333333
+                }, 
+                {
+                 "height":144,
+                 "id":66,
+                 "name":"jitsiConference2",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Conference"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":156.091,
+                 "x":705.9545,
+                 "y":31.3333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5393,7 +5410,7 @@
          "y":0
         }],
  "nextlayerid":130,
- "nextobjectid":66,
+ "nextobjectid":67,
  "orientation":"orthogonal",
  "properties":[
         {
