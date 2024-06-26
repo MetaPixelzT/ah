@@ -3939,7 +3939,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":10
+                         "value":-10
                         }, 
                         {
                          "name":"playAudio",
@@ -3966,7 +3966,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":1
+                         "value":-10
                         }, 
                         {
                          "name":"playAudio",
