@@ -4583,7 +4583,7 @@
                  "y":1058
                 }, 
                 {
-                 "height":190.686666666667,
+                 "height":176.686666666667,
                  "id":51,
                  "name":"focusable1",
                  "properties":[
@@ -4602,7 +4602,29 @@
                  "visible":true,
                  "width":165.392,
                  "x":698.304,
-                 "y":1301.32333333333
+                 "y":1315.32333333333
+                }, 
+                {
+                 "height":164,
+                 "id":52,
+                 "name":"jitsiConference",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Conference"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":156.091,
+                 "x":707.9545,
+                 "y":1314.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5149,7 +5171,7 @@
          "y":0
         }],
  "nextlayerid":128,
- "nextobjectid":52,
+ "nextobjectid":53,
  "orientation":"orthogonal",
  "properties":[
         {
