@@ -4644,7 +4644,7 @@
                  "y":1058
                 }, 
                 {
-                 "height":164,
+                 "height":130,
                  "id":52,
                  "name":"jitsiConference",
                  "properties":[
@@ -4658,10 +4658,10 @@
                  "visible":true,
                  "width":156.091,
                  "x":707.9545,
-                 "y":1314.5
+                 "y":1341
                 }, 
                 {
-                 "height":902.666666666667,
+                 "height":828.166666666667,
                  "id":53,
                  "name":"jitsiConference",
                  "properties":[
@@ -4673,9 +4673,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":156.091,
-                 "x":701.9545,
-                 "y":324.666666666667
+                 "width":94.091,
+                 "x":736.9545,
+                 "y":353.666666666667
                 }, 
                 {
                  "height":164,
