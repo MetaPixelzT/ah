@@ -5703,6 +5703,11 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"disableDeepLinking: true"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"01"
