@@ -5025,7 +5025,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":4
+                         "value":6
                         }, 
                         {
                          "name":"playAudio",
@@ -5996,7 +5996,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"01"
+                         "value":"14"
                         }],
                  "rotation":0,
                  "type":"area",
