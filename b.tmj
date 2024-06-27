@@ -5725,6 +5725,11 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"01"
@@ -5741,6 +5746,11 @@
                  "id":85,
                  "name":"jitsiMeetingRoom",
                  "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -5759,6 +5769,11 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"01"
@@ -5775,6 +5790,11 @@
                  "id":87,
                  "name":"jitsiMeetingRoom",
                  "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -5793,19 +5813,14 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"01"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":-1
                         }],
                  "rotation":0,
                  "type":"area",
@@ -5820,19 +5835,14 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"01"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":-1
                         }],
                  "rotation":0,
                  "type":"area",
@@ -5847,19 +5857,14 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"01"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":-1
                         }],
                  "rotation":0,
                  "type":"area",
@@ -5873,6 +5878,11 @@
                  "id":91,
                  "name":"jitsiMeetingRoom",
                  "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -5891,6 +5901,11 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"01"
@@ -5908,19 +5923,14 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"01"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":-1
                         }],
                  "rotation":0,
                  "type":"area",
@@ -5935,19 +5945,14 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
                         }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"01"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":-1
                         }],
                  "rotation":0,
                  "type":"area",
@@ -5961,6 +5966,11 @@
                  "id":95,
                  "name":"jitsiMeetingRoom",
                  "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
@@ -5978,6 +5988,11 @@
                  "id":96,
                  "name":"jitsiMeetingRoom",
                  "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
