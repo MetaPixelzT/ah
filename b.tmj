@@ -5705,7 +5705,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{ \"disableDeepLinking\": true }"
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
                         }, 
                         {
                          "name":"jitsiRoom",
